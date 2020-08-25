@@ -14,7 +14,6 @@ class Complex {
   void multiple(int real1, int real2, int im1, int im2){
     this.real = real1 *
   }
- 
   void show (){
     print(this.real+"+"+this.imaginary+"i");  }
 }
